@@ -9,9 +9,9 @@ Last updated: April 2024
 Classification model and NLP model
 ### Developers
 - Lily Ren [@lxren](https://github.com/lxren)
-- Andrea Rodriguez Moreno
-- Fatima Ramirez Rodriguez
-- Paolo Andrés Pancho Ramírez
+- Andrea Rodriguez Moreno [@Mariette182](https://github.com/Mariette182)
+- Fatima Ramirez Rodriguez [@fmramirez](https://github.com/fmramirez)
+- Paolo Andrés Pancho Ramírez [@Zar93Paolo](https://github.com/Zar93Paolo)
 
 ### Release Date
 ## Intended Use
