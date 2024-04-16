@@ -6,13 +6,12 @@ Last updated: April 2024
 ### Model Name
 ### Model Version
 ### Model Type
+Classification model and NLP model
 ### Developers
-<ul>
-  <li>Lily Ren <a href = "https://github.com/lxren">@lxren</a></li>
-  <li>Andrea Rodriguez Moreno</li>
-  <li>Fatima Ramirez Rodriguez</li>
-  <li>Paolo Andrés Pancho Ramírez</li>
-</ul>
+- Lily Ren [@lxren](https://github.com/lxren)
+- Andrea Rodriguez Moreno
+- Fatima Ramirez Rodriguez
+- Paolo Andrés Pancho Ramírez
 
 ### Release Date
 ## Intended Use
